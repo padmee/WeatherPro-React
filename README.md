@@ -24,7 +24,7 @@
 
 | **Desktop View (Sunny Theme)** | **Mobile View (Dark/Rainy)** |
 |:---:|:---:|
-| ⭐ **DESKTOP SCREENSHOT HERE** ⭐ | ⭐ **MOBILE SCREENSHOT HERE** ⭐ |
+| ⭐ <img width="1872" height="891" alt="image" src="https://github.com/user-attachments/assets/87fd6bd9-f7a2-44b3-85fa-260dd7a73ae5" /> ⭐ | ⭐ <img width="384" height="754" alt="image" src="https://github.com/user-attachments/assets/b41e2ec4-8459-4c63-b0b6-eace3576610a" /> ⭐ |
 
 ---
 
