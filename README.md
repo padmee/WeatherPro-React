@@ -83,15 +83,10 @@ code
 Bash
 git clone https://github.com/YOUR-USERNAME/WeatherPro.git
 Navigate to the project directory:
-code
-Bash
+code:
 cd WeatherPro
 Install dependencies:
-code
-Bash
 npm install
 Start the development server:
-code
-Bash
 npm run dev
 Open your browser at http://localhost:5173.
