@@ -79,14 +79,15 @@ src/
 └── index.css           # Global styles & Custom Tailwind animations
 🚀 How to Run Locally
 Clone the repository:
-code
-Bash
 git clone https://github.com/YOUR-USERNAME/WeatherPro.git
+
 Navigate to the project directory:
-code:
 cd WeatherPro
+
 Install dependencies:
 npm install
+
 Start the development server:
 npm run dev
+
 Open your browser at http://localhost:5173.
