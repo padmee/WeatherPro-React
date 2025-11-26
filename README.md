@@ -1,7 +1,7 @@
 <div align="center">
 
-  ⭐ <img width="1872" height="891" alt="image" src="https://github.com/user-attachments/assets/32d5c806-f6d9-4f95-930a-f482041cfbaf" /> ⭐
-  <!-- (عکس اسکرین‌شات نهایی پروژه را اینجا آپلود کن) -->
+  ⭐<img width="1872" height="891" alt="image" src="https://github.com/user-attachments/assets/32d5c806-f6d9-4f95-930a-f482041cfbaf" />⭐
+ 
 
   # 🌦️ WeatherPRO
   ### A Next-Gen Weather Dashboard Experience
@@ -24,7 +24,7 @@
 
 | **Desktop View (Sunny Theme)** | **Mobile View (Dark/Rainy)** |
 |:---:|:---:|
-| ⭐ <img width="1872" height="891" alt="image" src="https://github.com/user-attachments/assets/87fd6bd9-f7a2-44b3-85fa-260dd7a73ae5" /> ⭐ | ⭐ <img width="384" height="754" alt="image" src="https://github.com/user-attachments/assets/b41e2ec4-8459-4c63-b0b6-eace3576610a" /> ⭐ |
+| ⭐<img width="1872" height="891" alt="image" src="https://github.com/user-attachments/assets/87fd6bd9-f7a2-44b3-85fa-260dd7a73ae5" />⭐ | ⭐<img width="384" height="754" alt="image" src="https://github.com/user-attachments/assets/b41e2ec4-8459-4c63-b0b6-eace3576610a" />⭐ |
 
 ---
 
@@ -95,12 +95,3 @@ code
 Bash
 npm run dev
 Open your browser at http://localhost:5173.
-🔮 Future Roadmap
-
-Add historical weather data.
-
-Add PWA (Progressive Web App) support for offline installation.
-
-Integrate an interactive map layer.
-🤝 Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
